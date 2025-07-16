@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "cb98",
+      "name": "Juan",
+      "email": "juan@test.com",
+      "password": "da3280ef20cce6e3e523c3ec679472bbc83f6f03f9c5f8cf18b1cb004be4f0ec",
+      "role": "user",
+      "is_active": true,
+      "createAt": "2025-07-16T21:27:23.488Z"
+    }
+  ],
+  "events": [],
+  "reservations": [],
+  "messages": []
+}
