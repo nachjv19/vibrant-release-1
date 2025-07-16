@@ -126,4 +126,23 @@ Este módulo implementa la base funcional de una SPA con autenticación, control
   ]
 }
 
+## Para iniciar el proyecto en visual studio:
+abre la consola y escribe:
+npm i
+npm run dev
+json-server --watch .\src\database\db.json --port 3000
+
+### ✅ Estado actual
+- Autenticación por roles
+
+- Login y registro con validaciones
+
+- Sesiones en localStorage
+
+- Control por expiración
+
+- Forgot password simulado(en proceso)
+
+- Navegación dinámica
+
 
